@@ -83,4 +83,4 @@ frameWindow.pack();
 - **OpenCV** for computer vision algorithms and pretrained models.
 - **Bytedeco** for JavaCPP and JavaCV bindings that make OpenCV usable in Java.
 - This repo simply wires them together for demonstration and learning purposes.
-```
+---
